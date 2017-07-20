@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1500533284755" stop="1500533689145" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite1 : all_insets</name>
+    <title>Suite1 : all_insets</title>
+    <test-cases>
+        <test-case start="1500533290653" stop="1500533292680" status="passed">
+            <name>MainPageAboutInset</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyAllInsets"/>
+                <label name="testMethod" value="MainPageAboutInset"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533300743" stop="1500533301920" status="passed">
+            <name>MainPageForTeachers</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyAllInsets"/>
+                <label name="testMethod" value="MainPageForTeachers"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533307339" stop="1500533309005" status="passed">
+            <name>MainPageLifeCommunity</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyAllInsets"/>
+                <label name="testMethod" value="MainPageLifeCommunity"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533314776" stop="1500533316956" status="passed">
+            <name>MainPageOnEntryInset</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyAllInsets"/>
+                <label name="testMethod" value="MainPageOnEntryInset"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533322353" stop="1500533323510" status="passed">
+            <name>MainPageOnLogo</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyAllInsets"/>
+                <label name="testMethod" value="MainPageOnLogo"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533330899" stop="1500533332579" status="passed">
+            <name>MainPageScienceInset</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyAllInsets"/>
+                <label name="testMethod" value="MainPageScienceInset"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533336770" stop="1500533338012" status="passed">
+            <name>MainPageStudents</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyAllInsets"/>
+                <label name="testMethod" value="MainPageStudents"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533342178" stop="1500533343966" status="passed">
+            <name>MainPageStudyInset</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyAllInsets"/>
+                <label name="testMethod" value="MainPageStudyInset"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533348142" stop="1500533369687" status="broken">
+            <name>catethical</name>
+            <failure>
+                <message>NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[@style="text-decoration: none;"])[7]"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320),platform=Linux 4.4.0-83-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'yurii-HP-EliteBook-2170p', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-83-generic', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320), userDataDir=/tmp/.org.chromium.Chromium.gXm4wM}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 00443207003cba2f0bfda85e08d75480
+*** Element info: {Using=xpath, value=(//a[@style="text-decoration: none;"])[7]}</message>
+                <stack-trace>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[@style="text-decoration: none;"])[7]"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320),platform=Linux 4.4.0-83-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'yurii-HP-EliteBook-2170p', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-83-generic', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320), userDataDir=/tmp/.org.chromium.Chromium.gXm4wM}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 00443207003cba2f0bfda85e08d75480
+*** Element info: {Using=xpath, value=(//a[@style="text-decoration: none;"])[7]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at functions.SciencePageFunctions.choose_catechetical(SciencePageFunctions.java:62)
+	at tests.science.VerifyLinksSciencePage.catethical(VerifyLinksSciencePage.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:127)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.science.VerifyLinksSciencePage"/>
+                <label name="testMethod" value="catethical"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533378465" stop="1500533382333" status="passed">
+            <name>church_institute</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.science.VerifyLinksSciencePage"/>
+                <label name="testMethod" value="church_institute"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533387306" stop="1500533404989" status="passed">
+            <name>edition</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.science.VerifyLinksSciencePage"/>
+                <label name="testMethod" value="edition"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533411575" stop="1500533433328" status="broken">
+            <name>family</name>
+            <failure>
+                <message>NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[@style="text-decoration: none;"])[6]"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320),platform=Linux 4.4.0-83-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'yurii-HP-EliteBook-2170p', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-83-generic', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320), userDataDir=/tmp/.org.chromium.Chromium.MoNd8u}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 31bf53b1c5554966e663a4ab29ac8798
+*** Element info: {Using=xpath, value=(//a[@style="text-decoration: none;"])[6]}</message>
+                <stack-trace>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[@style="text-decoration: none;"])[6]"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320),platform=Linux 4.4.0-83-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'yurii-HP-EliteBook-2170p', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-83-generic', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320), userDataDir=/tmp/.org.chromium.Chromium.MoNd8u}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 31bf53b1c5554966e663a4ab29ac8798
+*** Element info: {Using=xpath, value=(//a[@style="text-decoration: none;"])[6]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at functions.SciencePageFunctions.choose_family(SciencePageFunctions.java:55)
+	at tests.science.VerifyLinksSciencePage.family(VerifyLinksSciencePage.java:47)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:127)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.science.VerifyLinksSciencePage"/>
+                <label name="testMethod" value="family"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533438988" stop="1500533448693" status="passed">
+            <name>liturgy_science</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.science.VerifyLinksSciencePage"/>
+                <label name="testMethod" value="liturgy_science"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533455676" stop="1500533458347" status="passed">
+            <name>management_institute</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.science.VerifyLinksSciencePage"/>
+                <label name="testMethod" value="management_institute"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533467245" stop="1500533472843" status="passed">
+            <name>mental_health</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.science.VerifyLinksSciencePage"/>
+                <label name="testMethod" value="mental_health"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533481246" stop="1500533483618" status="passed">
+            <name>opportunities_trainings</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.science.VerifyLinksSciencePage"/>
+                <label name="testMethod" value="opportunities_trainings"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533487864" stop="1500533491412" status="passed">
+            <name>religion_community</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.science.VerifyLinksSciencePage"/>
+                <label name="testMethod" value="religion_community"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533496478" stop="1500533498363" status="passed">
+            <name>repository</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.science.VerifyLinksSciencePage"/>
+                <label name="testMethod" value="repository"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533504070" stop="1500533507667" status="passed">
+            <name>science_department</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.science.VerifyLinksSciencePage"/>
+                <label name="testMethod" value="science_department"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533512124" stop="1500533515349" status="passed">
+            <name>ucu_events</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.science.VerifyLinksSciencePage"/>
+                <label name="testMethod" value="ucu_events"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533521112" stop="1500533523188" status="passed">
+            <name>MainPageAllEvents</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyMainPageTest"/>
+                <label name="testMethod" value="MainPageAllEvents"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533528217" stop="1500533530408" status="passed">
+            <name>MainPageAllNews</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyMainPageTest"/>
+                <label name="testMethod" value="MainPageAllNews"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533538117" stop="1500533541897" status="passed">
+            <name>MainPageAllPhotos</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyMainPageTest"/>
+                <label name="testMethod" value="MainPageAllPhotos"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533547286" stop="1500533548643" status="passed">
+            <name>MainPageAllVideos</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyMainPageTest"/>
+                <label name="testMethod" value="MainPageAllVideos"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533552951" stop="1500533554193" status="passed">
+            <name>MainPageFirstEvent</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyMainPageTest"/>
+                <label name="testMethod" value="MainPageFirstEvent"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533559079" stop="1500533579109" status="broken">
+            <name>MainPageFirstNews</name>
+            <failure>
+                <message>NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//header[@class="card card--news"]/a"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320),platform=Linux 4.4.0-83-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'yurii-HP-EliteBook-2170p', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-83-generic', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320), userDataDir=/tmp/.org.chromium.Chromium.S428yf}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 365fc9f42ca0949236b3aeda7c647f5c
+*** Element info: {Using=xpath, value=//header[@class="card card--news"]/a}</message>
+                <stack-trace>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//header[@class="card card--news"]/a"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320),platform=Linux 4.4.0-83-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'yurii-HP-EliteBook-2170p', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-83-generic', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320), userDataDir=/tmp/.org.chromium.Chromium.S428yf}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 365fc9f42ca0949236b3aeda7c647f5c
+*** Element info: {Using=xpath, value=//header[@class="card card--news"]/a}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at functions.MainPageFunctions.first_news(MainPageFunctions.java:43)
+	at tests.main.VerifyMainPageTest.MainPageFirstNews(VerifyMainPageTest.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:127)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyMainPageTest"/>
+                <label name="testMethod" value="MainPageFirstNews"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533586696" stop="1500533606789" status="broken">
+            <name>MainPageVerifyImportantNews</name>
+            <failure>
+                <message>NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[@class="card__heading"]"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320),platform=Linux 4.4.0-83-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'yurii-HP-EliteBook-2170p', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-83-generic', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320), userDataDir=/tmp/.org.chromium.Chromium.EANxmh}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 24924b5e8593029462046a800617cba3
+*** Element info: {Using=xpath, value=//h3[@class="card__heading"]}</message>
+                <stack-trace>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[@class="card__heading"]"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320),platform=Linux 4.4.0-83-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'yurii-HP-EliteBook-2170p', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-83-generic', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320), userDataDir=/tmp/.org.chromium.Chromium.EANxmh}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 24924b5e8593029462046a800617cba3
+*** Element info: {Using=xpath, value=//h3[@class="card__heading"]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:473)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+	at functions.MainPageFunctions.important_news(MainPageFunctions.java:24)
+	at tests.main.VerifyMainPageTest.MainPageVerifyImportantNews(VerifyMainPageTest.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:127)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyMainPageTest"/>
+                <label name="testMethod" value="MainPageVerifyImportantNews"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533617902" stop="1500533620645" status="passed">
+            <name>MainPageVerifyPhotosLink</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyMainPageTest"/>
+                <label name="testMethod" value="MainPageVerifyPhotosLink"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533626055" stop="1500533626142" status="broken">
+            <name>MainPageVerifySlider</name>
+            <failure>
+                <message>ElementNotVisibleException: element not visible
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320),platform=Linux 4.4.0-83-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 23 milliseconds
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'yurii-HP-EliteBook-2170p', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-83-generic', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320), userDataDir=/tmp/.org.chromium.Chromium.YrusoK}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 2143ab9503959e13eccb771d2c222a89</message>
+                <stack-trace>org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320),platform=Linux 4.4.0-83-generic x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 23 milliseconds
+Build info: version: '3.1.0', revision: 'b94c902', time: '2017-02-16 12:21:31 -0800'
+System info: host: 'yurii-HP-EliteBook-2170p', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-83-generic', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440175 (9bc1d90b8bfa4dd181fbbf769a5eb5e575574320), userDataDir=/tmp/.org.chromium.Chromium.YrusoK}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 2143ab9503959e13eccb771d2c222a89
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:274)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at functions.MainPageFunctions.slider_title(MainPageFunctions.java:35)
+	at tests.main.VerifyMainPageTest.MainPageVerifySlider(VerifyMainPageTest.java:25)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:127)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyMainPageTest"/>
+                <label name="testMethod" value="MainPageVerifySlider"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533633744" stop="1500533635235" status="passed">
+            <name>MainPageVideo</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.main.VerifyMainPageTest"/>
+                <label name="testMethod" value="MainPageVideo"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533640947" stop="1500533643590" status="passed">
+            <name>bachelor_progarm</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.studies.VerifyLinksStudiesPage"/>
+                <label name="testMethod" value="bachelor_progarm"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533665278" stop="1500533676200" status="passed">
+            <name>become_student</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite1"/>
+                <label name="testGroup" value="all_insets"/>
+                <label name="testClass" value="tests.studies.VerifyLinksStudiesPage"/>
+                <label name="testMethod" value="become_student"/>
+                <label name="host" value="yurii-HP-EliteBook-2170p"/>
+                <label name="thread" value="9784@yurii-HP-EliteBook-2170p.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500533284755" stop="1500533689143" status="broken">
+            <name>Suite1 : all_insets</name>
+            <title>Suite1 : all_insets</title>
+            <failure>
+                <message>Test suite was interrupted, some test cases may be lost</message>
+            </failure>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

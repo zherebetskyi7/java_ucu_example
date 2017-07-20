@@ -1,0 +1,13 @@
+pages/StudiesPageElements.class
+pages/SciencePageElements.class
+pages/CommunityLifePageElements.class
+pages/MainPageElements.class
+functions/header/ForStudentsFunctions.class
+functions/MainPageFunctions.class
+functions/footer/FooterFunctions.class
+pages/header/HeaderInsetsElements.class
+pages/footer/FooterElements.class
+functions/AllInsetsFunctions.class
+functions/CommunityLifePageFunctions.class
+functions/SciencePageFunctions.class
+functions/StudiesPageFunctions.class

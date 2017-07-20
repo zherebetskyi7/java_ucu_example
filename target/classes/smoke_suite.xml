@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+    <test name="all_insets">
+        <classes>
+            <class name="tests.main.VerifyAllInsets"/>
+            <class name="tests.main.VerifyMainPageTest"/>
+            <class name="tests.community_life.VerifyCommunityLifePageTest" />
+            <class name="tests.header.VerifyHeaderInset"/>
+            <class name="tests.science.VerifyLinksSciencePage"/>
+            <class name="tests.studies.VerifyLinksStudiesPage"/>
+        </classes>
+    </test>
+</suite>

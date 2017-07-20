@@ -1,0 +1,7 @@
+tests/community_life/VerifyCommunityLifePageTest.class
+tests/main/VerifyMainPageTest.class
+tests/science/VerifyLinksSciencePage.class
+settings/OpenBrowser.class
+tests/studies/VerifyLinksStudiesPage.class
+tests/header/VerifyHeaderInset.class
+tests/main/VerifyAllInsets.class

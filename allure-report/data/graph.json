@@ -1,0 +1,91 @@
+{
+  "testCases" : [ {
+    "uid" : "36db08c791235651",
+    "name" : "MainPageAboutInset",
+    "title" : "Main page about inset",
+    "time" : {
+      "start" : 1488460519490,
+      "stop" : 1488460532680,
+      "duration" : 13190
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "82bb076d2bab30be",
+    "name" : "MainPageForTeachers",
+    "title" : "Main page for teachers",
+    "time" : {
+      "start" : 1488460536434,
+      "stop" : 1488460538076,
+      "duration" : 1642
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "7076c6d6b2c4d44",
+    "name" : "MainPageLifeCommunity",
+    "title" : "Main page life community",
+    "time" : {
+      "start" : 1488460541584,
+      "stop" : 1488460561522,
+      "duration" : 19938
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d1103c6b52ba6c50",
+    "name" : "MainPageOnEntryInset",
+    "title" : "Main page on entry inset",
+    "time" : {
+      "start" : 1488460579761,
+      "stop" : 1488460583401,
+      "duration" : 3640
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "39b297e5bae786a3",
+    "name" : "MainPageOnLogo",
+    "title" : "Main page on logo",
+    "time" : {
+      "start" : 1488460587064,
+      "stop" : 1488460588114,
+      "duration" : 1050
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "3b93ac8d45fb3bca",
+    "name" : "MainPageScienceInset",
+    "title" : "Main page science inset",
+    "time" : {
+      "start" : 1488460591785,
+      "stop" : 1488460607524,
+      "duration" : 15739
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "1f864eef5ad3135d",
+    "name" : "MainPageStudents",
+    "title" : "Main page students",
+    "time" : {
+      "start" : 1488460619619,
+      "stop" : 1488460656348,
+      "duration" : 36729
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "aa989bcbbc81d422",
+    "name" : "MainPageStudyInset",
+    "title" : "Main page study inset",
+    "time" : {
+      "start" : 1488460665477,
+      "stop" : 1488460674409,
+      "duration" : 8932
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}

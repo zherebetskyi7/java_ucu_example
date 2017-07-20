@@ -1,0 +1,59 @@
+{
+  "uid" : "f5147fa98b8bc7ad",
+  "name" : "CommunityConferenceService",
+  "title" : "Community conference service",
+  "time" : {
+    "start" : 1488456780143,
+    "stop" : 1488456784024,
+    "duration" : 3881
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "8347dd283b0d9118",
+    "name" : "Suite1 : all_insets",
+    "title" : "Suite1 : all_insets"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "17722@yurii-HP-EliteBook-2170p.main(1)"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testMethod",
+    "value" : "CommunityConferenceService"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite1 : all_insets"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.community_life.VerifyCommunityLifePageTest"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite1 : all_insets"
+  }, {
+    "name" : "testGroup",
+    "value" : "all_insets"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "yurii-HP-EliteBook-2170p"
+  }, {
+    "name" : "testSuite",
+    "value" : "Suite1"
+  } ],
+  "parameters" : [ ]
+}

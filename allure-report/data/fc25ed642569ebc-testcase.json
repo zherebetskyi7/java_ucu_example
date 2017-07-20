@@ -1,0 +1,59 @@
+{
+  "uid" : "fc25ed642569ebc",
+  "name" : "bachelor_progarm",
+  "title" : "Bachelor progarm",
+  "time" : {
+    "start" : 1488456691194,
+    "stop" : 1488456694844,
+    "duration" : 3650
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "5e75e47b2c2991b8",
+    "name" : "Suite1 : all_insets",
+    "title" : "Suite1 : all_insets"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "17722@yurii-HP-EliteBook-2170p.main(1)"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.studies.VerifyLinksStudiesPage"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite1 : all_insets"
+  }, {
+    "name" : "testMethod",
+    "value" : "bachelor_progarm"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite1 : all_insets"
+  }, {
+    "name" : "testGroup",
+    "value" : "all_insets"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "yurii-HP-EliteBook-2170p"
+  }, {
+    "name" : "testSuite",
+    "value" : "Suite1"
+  } ],
+  "parameters" : [ ]
+}
